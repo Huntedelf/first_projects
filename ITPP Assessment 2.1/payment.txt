@@ -1,0 +1,7 @@
+The following is your Loan Calculation
+
+Loan Amount       = R4000
+Rate              = 5.3%
+Months            = 24
+
+Monthly Payments  = R175.5

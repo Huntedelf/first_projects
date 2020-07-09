@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594273555 source:c:\users\lee\documents\trudie blocks\itpp assessment 3\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
